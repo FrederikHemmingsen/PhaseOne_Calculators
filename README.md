@@ -1,11 +1,7 @@
 # Phase one calculators as app, web, and PC
-
-
-
 ## Get the calculator as an app (works on IOS and Android)
 
-![439348466_953913963068674_9093323925380047045_n](https://github.com/FrederikHemmingsen/PhaseOne_Calculators_Iframe_Page/assets/131653152/4f58bd3b-f1d1-4c37-9ab4-e82430afd67d)
-
+![calc (2)](https://github.com/FrederikHemmingsen/PhaseOne_Calculators/assets/131653152/a51e341d-6365-4d51-9688-7192f906ddcd)
 
 
 
@@ -17,9 +13,11 @@
 
 ![440382461_957845618995354_7733198627530639804_n](https://github.com/FrederikHemmingsen/PhaseOne_Calculators_Iframe_Page/assets/131653152/1ced380d-fc8f-4308-9c1b-1112287695b0)
 
+
 ### 3 Press add
 
 ![439388533_983084890054111_6643122052886001654_n](https://github.com/FrederikHemmingsen/PhaseOne_Calculators_Iframe_Page/assets/131653152/191f952c-5bd1-4b24-81f9-f64bada4352c)
+
 
 ### 4 Woop Woop you got an app
 
@@ -28,15 +26,19 @@
 
 
 
+
 ## Add as program on Windows an mac (Only works with Chrome)
+
 
 ### 1 Go to 3 dots -> save and share -> create shortcut
 
 <img width="1381" alt="Screenshot 2024-04-30 110621" src="https://github.com/FrederikHemmingsen/PhaseOne_Calculators_Iframe_Page/assets/131653152/8089d70d-10f1-44ee-ad81-5a14adeab11b">
 
+
 ### 2 Make sure to check open as window
 
 <img width="643" alt="Screenshot 2024-04-30 11081722" src="https://github.com/FrederikHemmingsen/PhaseOne_Calculators_Iframe_Page/assets/131653152/7066f23d-843b-47d4-889d-9e7f1f3d4d2f">
+
 
 ### 4 Whoop Whoop you got a program! (Windows saves it on desktop and mac in a shortcut folder so just drag it to your desktop)
 
